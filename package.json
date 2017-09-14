@@ -1,0 +1,8 @@
+{
+  "name": "alerta-birra-admin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pablocolaiacovo/alerta-birra-admin.git",
+  "author": "Pablo Colaiacovo <pablo.colaiacovo@gmail.com>",
+  "license": "MIT"
+}

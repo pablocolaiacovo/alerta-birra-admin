@@ -1,0 +1,12 @@
+{
+  "name": "alerta-birra-admin",
+  "version": "1.0.0",
+  "main": "alerta-birra-admin.js",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11",
+    "webtask-tools": "^3.2.0"
+  }
+}
